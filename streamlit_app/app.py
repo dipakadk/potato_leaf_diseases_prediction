@@ -10,7 +10,7 @@ model = tf.keras.models.load_model('potato_models.h5')
 class_labels = ["Early_blight", "Late_blight", "Healthy"]
 
 def main():
-    st.title("Image Classification Web App")
+    st.title("Potato Leaf Diseases Prediction System")
 
     # Upload image through Streamlit widget
     uploaded_image = st.file_uploader("Upload an image...", type=["jpg", "jpeg", "png"])
