@@ -5,8 +5,13 @@ Potato Leaf Diseases Prediction is a web app build using streamlit which can be 
 
 Different agricultural country's farmer are worried about their crops and failed to identify whether their popato's are better or not. In order to identify those problems, this web app can help them to identify the quality of the potatoes by checking their leafs.Farmers can upload potato's leaf and can identify whether the potatos are healthy or not.
 
-The interaface of the app looks like the following with sample test of an images
+The interaface of the app looks like the following 
 ![plot](./output_images/1.png)
+
+Upload the image of the potato's leaf in order to identify whether the potato is healthy or not (given a sample demo).
+![plot](./output_images/2.png)
+![plot](./output_images/3.png)
+![plot](./output_images/4.png)
 
 
 
