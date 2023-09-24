@@ -27,7 +27,7 @@ Use the package manager pip to install the required packages and libraries.
    pip install -r requirements.txt
  ````
 ## How to run the project?
-You can run the app by using the following command
+You can run the app by using the following command:
 ```
 streamlit run app.py
 
